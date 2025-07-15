@@ -1,4 +1,4 @@
-# Final_project01-
+# Final_project01
 IT-Academy, Final Project
 # Завод - Конвейерное производство
 
